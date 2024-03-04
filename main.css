@@ -1,0 +1,50 @@
+.sec {
+    background-image: url(image/cover.jpg);
+    height: 270px;
+    margin-top: -20px;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 20px auto 20px auto;
+    
+    background-color: #ffffff;
+}
+
+h2{
+    padding-top: 100px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+hr{
+    font-weight: bolder;
+}
+.dcs{
+    margin-top: 40px;
+    
+}
+.dc{
+    border-bottom: 1px solid rgb(218, 213, 213);
+}
+
+footer{
+    background-color: #1b1b1b;
+    color: #fff;
+}
+.jumb{
+    background-color: rgba(241, 240, 240, 0.952);
+    border-radius: 15px;
+}
+
+
+
+.image{
+    width: 100px;
+}
+
+
+
+
+
+

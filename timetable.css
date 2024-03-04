@@ -1,0 +1,20 @@
+table, tr, th, td, captio {
+    border: 1px solid hsl(0, 4%, 5%);
+    font-family: 'courier New',Courier, Monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    margin-top: 10px;
+
+
+}
+
+caption{
+    text-align: center;
+    color:  rgb(8, 8, 8);
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 40px;
+}
+button{
+    margin-top: 10px;
+}
