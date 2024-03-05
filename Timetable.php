@@ -29,7 +29,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="index.html">Faculty</a></li>
 
-                    <li><a href="depart.php"><i class="fa fa-home"></i>Department</a>
+                    <li><a href="depart.html"><i class="fa fa-home"></i>Department</a>
 
                     </li>
 
