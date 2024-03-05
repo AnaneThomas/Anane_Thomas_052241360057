@@ -25,7 +25,7 @@
                     <a class="navbar-brand" href="#">Faculty of Applied Scince</a>
                 </div>
                 <ul class="nav navbar-nav">
-                    <li class=""><a href="index.php">Faculty</a></li>
+                    <li class=""><a href="index.html">Faculty</a></li>
 
                     <li class="active"><a href="depart.php">Department</a></li>
 
