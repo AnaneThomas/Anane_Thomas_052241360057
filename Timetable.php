@@ -33,9 +33,9 @@
 
                     </li>
 
-                    <li class=""><a href="payment.php">Payment</a></li>
-                    <li><a href="registration.php">Registration</a></li>
-                    <li class="active"><a href="Timetable.php">Time table</a></li>
+                    <li class=""><a href="payment.html">Payment</a></li>
+                    <li><a href="registration.html">Registration</a></li>
+                    <li class="active"><a href="Timetable.html">Time table</a></li>
                     
                     
                 </ul>
